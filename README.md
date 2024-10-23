@@ -32,7 +32,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alaaoraby&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alaaoraby&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages HTML" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=alaaoraby&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=alaaoraby&style=for-the-badge">
