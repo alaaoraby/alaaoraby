@@ -8,17 +8,17 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20 Developer%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Front-End
+- 🏢 I'm a Front-End-Developer
 - 💬 Ask me about my experience with HTML, CSS, and Java script, or anything related to web development.
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/alaaoraby/" target="_blank"><img src="https://img.shields.io/badge/-Basmala%20Mohamad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/basbasamohamed/"><img src="https://img.shields.io/badge/-Basmala%20Mohamad-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="basmala20191700182@cis.asu.edu.eg"><img src="https://img.shields.io/badge/-Basmala%20Mohamad-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alaaoraby/" target="_blank"><img src="https://img.shields.io/badge/-Alaa%20Oraby-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/alaaoraby/"><img src="https://img.shields.io/badge/-Alaa%20Oraby-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="alaaoraby22@gmail.com"><img src="https://img.shields.io/badge/-Alaa%20Oraby-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -28,13 +28,12 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Cs](https://img.shields.io/badge/-C%20sharp%20-05122A?style=flat&logo=dot-net)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BasmalaMohamad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alaaoraby&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
